@@ -1,0 +1,10 @@
+name: Thank You Your Pull Request
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+
+jobs:
+  
